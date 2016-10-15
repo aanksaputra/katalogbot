@@ -6,13 +6,13 @@ Buatlah file `token.php` yang berisi :
     <?php
     $token = 'isitokenbotmu';
 
-Jalankan bot:
-    php diary.php
+Jalankan bot lewat terminal/ cmd:
+    php katalog.php
   
 - Diskusi : @botphp
-- oleh: bang Hasan
+- Dibuat oleh: Bang Hasan
 - 9 September 2016
+- Dimodif tanggal 15 Oktober 2016
 - Telegram dan Twitter @hasanudinhs
 - Email dan Facebook: banghasan
-
-https://api.telegram.org/bot297424586:AAHXBZSePGpRHvGIT4y5cFiFJBrUyd19Keo/setWebhook?url=https://www.tg.sukmono.web.id/dbhmi/greenzone.php&certificate=BQADBQADQAEAAsaOPwgM9qeG_Dk69QI
+- Dimodifikasi oleh @aank_saputra
